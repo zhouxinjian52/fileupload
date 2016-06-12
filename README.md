@@ -1,7 +1,7 @@
-# Imageupload
+# Fileupload
 使用File API+canvas 客户端压缩图片，并实现文件上传服务端
 
-文件依赖 JQUERY
+文件依赖 jquery
 
 ## 参数API 
 
